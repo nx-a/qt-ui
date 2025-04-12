@@ -1,0 +1,20 @@
+key: 12
+str: "sdr gsdfrged"
+bool: true
+lst:
+  - 1
+  - 2
+  - 3
+  - 4
+  - sdfgsd
+obj:
+  key: 12
+  str: "sdr gsdfrged"
+  bool: true
+  lst:
+    - 1
+    - 2
+    - 3
+    - 4
+    - sdfgsd
+
